@@ -17,17 +17,21 @@
 }
 
 #credit {
+    text-align: center;
     font-size: small;
     color: blue;
     font-weight: lighter;
+
 } 
 
 #about {
     font-weight: bolder;
+    text-align: center;
 }
 
-#about {
+#schoolwork {
     font-weight: bold;
+    text-align: center;
 }
 
 li {color: darkslategrey;}
