@@ -37,3 +37,8 @@ h2 {font-weight: bold; }
     font-weight: bold;
     text-align: center;
 }
+
+#other {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
