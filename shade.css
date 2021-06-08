@@ -1,10 +1,26 @@
-#Education {
+#education {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: purple; 
 }
 
+#exp {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:cornflowerblue; 
+}
+
 #skills {
     font-size: medium;
     color: red;
+}
+
+#credit {
+    font-size: small;
+    color: blue;
+    font-weight: lighter;
+} 
+
+#schoolwork {
+    font-weight: bold;
 }
